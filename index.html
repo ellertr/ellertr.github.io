@@ -43,13 +43,14 @@
             </script>
             <script type="text/javascript">
             var link = document.getElementById('test');
+                
+var rand = Math.floor((Math.random()*10) + 1);
 
 analytics.trackLink(link, 'Clicked Free-Trial Link', {
   plan: 'Enterprise',
   status: Math.random(),
-  status2: ''
+  status2: rand
 });
-var rand = Math.floor((Math.random()*10) + 1);
             </script>
     </body>
 </html>
