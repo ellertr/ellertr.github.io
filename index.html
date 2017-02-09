@@ -46,9 +46,9 @@
 
 analytics.trackLink(link, 'Clicked Free-Trial Link', {
   plan: 'Enterprise',
-  status: 'Closed'
+  status: Math.floor((Math.random()*10) + 1)
 });
-var rand = Math.floor((Math.random()*10) + 1); ;
+var rand = Math.floor((Math.random()*10) + 1);
 console.log(rand);
             </script>
     </body>
