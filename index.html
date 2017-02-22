@@ -11,8 +11,6 @@
   ga('send', 'pageview');
             ga(function(tracker) {
   var clientId = tracker.get('clientId');
-                console.log(clientId);
-                console.log('Hello')
 });
 </script>
   <script type="text/javascript">
@@ -58,5 +56,9 @@ analytics.trackLink(link, 'Clicked Free-Trial Link', {
   status2: rand
 });
             </script>
+            <script>
+            var test = 'ga:clientId';
+                console.log(test)
+    </script>
     </body>
 </html>
