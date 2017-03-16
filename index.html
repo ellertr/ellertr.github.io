@@ -28,7 +28,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   plan: 'Enterprise'
 });
     </script>
-            <script type="text/javascript"> analytics.identify('025pikachu025', {
+            <script type="text/javascript"> 
+                var da = dataLayer;
+                analytics.identify('025pikachu025', {
     name: 'Pikachu',
     type: 'electric',
     email: 'peekAtMe@poke.mon',
@@ -42,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         speed: 90
     },
     nickName: 'Mouse Pokémon',
-    testName: datalayer[0].event,
+    testName: da[0].event,
 });
             </script>
             <script type="text/javascript">
