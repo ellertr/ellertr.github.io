@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4507.762 2021 70.469 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="html5" transform="translate(4477.762 2021)">
+    <path id="Path_77" data-name="Path 77" d="M36.406,71.875,30,0h70.469L94.063,71.875,65.156,80"/>
+    <path id="Path_78" data-name="Path 78" d="M256,104.969l23.281-6.406L284.75,37H256" transform="translate(-190.688 -31.219)"/>
+    <path id="Path_79" data-name="Path 79" class="cls-1" d="M136.188,111.813H124.469l-.781-9.062h12.5V94H114l.156,2.344,2.188,24.375h19.844Zm0,22.969h-.156l-9.844-2.656-.625-7.031h-8.75L117.906,139l18.125,5h.156Z" transform="translate(-69.875 -79.313)"/>
+    <path id="Path_80" data-name="Path 80" class="cls-1" d="M255,111.813v8.906h10.938l-1.094,11.406L255,134.781V144l18.125-5,.156-1.562,2.031-23.281.313-2.344H255ZM255,94v8.75h21.406l.156-1.875.469-4.531L277.188,94Z" transform="translate(-189.844 -79.313)"/>
+  </g>
+</svg>
