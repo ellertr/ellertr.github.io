@@ -14,9 +14,9 @@
   $(document).ready(function() {
     return $('#contact-form').submit(function(e) {
       var email, message, name;
-      name = document.getElementById('inputName');
-      email = document.getElementById('inputEmail');
-      message = document.getElementById('inputMessage');
+      name = document.getElementById('name');
+      email = document.getElementById('exampleEmailInput');
+      message = document.getElementById('exampleMessage');
       if (!name.value || !email.value || !message.value) {
         alertify.error('Please check your entries');
         return false;
