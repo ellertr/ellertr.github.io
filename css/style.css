@@ -245,6 +245,19 @@ footer {
     }
 }
 
+/* Form Extra
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.display-none {
+  display: none;
+}
+.fill {
+  display: block;
+  width: 100%;
+}
+textarea {
+  resize: vertical;
+}
 
 
 
