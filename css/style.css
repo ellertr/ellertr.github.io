@@ -245,19 +245,13 @@ footer {
     }
 }
 
-/* Form Extra
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+@media (max-width: 550px) {
+    h1 {
+        margin-top: 4rem;
+    }
+}
 
-.display-none {
-  display: none;
-}
-.fill {
-  display: block;
-  width: 100%;
-}
-textarea {
-  resize: vertical;
-}
+
 
 
 
