@@ -122,6 +122,10 @@ p {
     margin: 0px;
 }
 
+.less-margin {
+    margin-bottom: 2rem;
+}
+
 .margin-bottom {
     margin-bottom: 0.3%;
 }
